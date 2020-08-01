@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 void main(){
 	int b[20],p[20][2],m,n,i,j;
 	printf("Enter no of blocks:");
